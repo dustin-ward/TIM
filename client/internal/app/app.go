@@ -2,7 +2,7 @@ package app
 
 import (
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/dustin-ward/tim/internal/style"
+	"github.com/dustin-ward/tim/client/internal/style"
 )
 
 type AppState int
